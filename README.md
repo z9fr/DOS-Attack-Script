@@ -10,6 +10,6 @@ How to Run the Script:
     $ python3 main.py
 
 
-heres a screenshot of the Script:
+heres a screenshot of the Script : 
 
 ![screenshot](https://github.com/d4az/DOS-Attack-Script./blob/main/dos-scr)

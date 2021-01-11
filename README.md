@@ -5,7 +5,7 @@ You can spoof Your ip adress and you can send packets using different ip adress 
 To Use The script You need to have Python3 pre installed On your computer.
 I would recommend You using linux or mav os for this.
 
-How to Run the Script:
+To Run the Script:
 
     $ python3 main.py
 

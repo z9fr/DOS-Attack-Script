@@ -16,7 +16,7 @@ print("         +---------------------------d4az------+ ")
 
 print("\n\n")
 
-print("Enter The ip Address of The Target (Web Domain) ")
+print("Enter ip Address of The Target (Web Domain) ")
 print("To Get the ip adress You can ping the domain in the terminal. eg #target = '120.00.00.000'")
 target = input("\t == > ")
 print("Enter The Fake Ip Address that you wants to spoof. eg: #fake_ip = '120.00.00.01'  ")

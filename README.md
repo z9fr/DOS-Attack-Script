@@ -12,4 +12,4 @@ To Run the Script:
 
 heres a screenshot of the Script : 
 
-![screenshot](https://github.com/d4az/DOS-Attack-Script./blob/main/dos-scr)
+![ss](https://github.com/d4az/DOS-Attack-Script./blob/main/dos-scr)

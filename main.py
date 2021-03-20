@@ -21,7 +21,7 @@ print("To Get the ip adress You can ping the domain in the terminal. eg #target 
 target = input("\t == > ")
 print("Enter The Fake Ip Address that you wants to spoof. eg: #fake_ip = '120.00.00.01'  ")
 fake_ip = input("\t\t ==> ")
-print("Enter The Port Number You Want to Attack")
+print("Enter The Port Number You Want to Attack ? ")
 port = input("\t\t ==> ")
 
 port = int(port)

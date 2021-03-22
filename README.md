@@ -1,4 +1,4 @@
-# DOS-Attack-Script.
+# DOS-Attack-Script
 This is an basic script that you can use to do a Denial-of-service attack.
 You can spoof Your ip adress and you can send packets using different ip adress too.
 
